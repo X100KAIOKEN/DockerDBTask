@@ -1,0 +1,11 @@
+# Альтернатива длинным командам docker build / docker run.
+# Запуск:   docker compose up -d --build
+# Остановка: docker compose down
+services:
+  db:
+    build: .
+    image: x100kaioken/postgres-users:1.0
+    container_name: sro-postgres
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
