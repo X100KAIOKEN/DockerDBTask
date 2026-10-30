@@ -1,5 +1,5 @@
 # СРО: Контейнер PostgreSQL с предзагруженной базой
-
+https://hub.docker.com/u/x100kaioken?_gl=1*p1ca9o*_gcl_au*MTA1NDk4OTE2NS4xNzkzMTU1MTUyLjE2MDg2MDExNjkuMTc5MzMzNjU5MC4xNzkzMzM2NTg5LjU1ODk1Nzg1MS4xNzkzMzM2NTkwLjE3OTMzMzY1ODk.*_ga*NjA0MDMyNTIxLjE3OTMxNTUxNTI.*_ga_XJWPQMJYHQ*czE3OTMzNDI2MDMkbzYkZzEkdDE3OTMzNDI2OTUkajUxJGwwJGgw
 Задание: поднять в Docker-контейнере приложение (не веб-сервер), внести в образ
 собственные изменения и опубликовать его на Docker Hub.
 
